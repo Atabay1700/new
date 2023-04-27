@@ -1,0 +1,414 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500;700;900&display=swap');
+.intro_title{
+	max-width:790px;
+	font-family: 'Raleway', sans-serif;
+	font-size:55px;
+	font-weight:700;
+	color:rgba(31, 50, 98, 0.84);
+	margin-top:49px;
+	margin-left:90px;
+	line-height: 192.9%;
+	
+}
+.img_main1{
+position: absolute;
+width: 680px;
+height: 592px;
+left: 1002px;
+top: 447px;
+
+}
+
+.img_main2{
+	position: absolute;
+width: 457px;
+height: 459px;
+left: 239px;
+top: 500px;
+
+}
+
+
+.rectangle{
+position: absolute;
+width: 1442px;
+height: 59px;
+left: 240px;
+top: 1039px;
+box-shadow: 4px 4px 20px 4px rgba(46, 56, 82, 0.25);
+}
+
+.title2{
+	position: absolute;
+
+top: 1150px;
+font-weight: 700;
+font-size: 55px;
+line-height: 172.9%;
+
+
+
+align-items: center;
+text-align: center;
+
+color: rgba(31, 50, 98, 0.84);
+}
+
+
+.card1{	
+position: absolute;
+width: 250px;
+height: 250px;
+left: 245px;
+top: 1424px;
+z-index:4;
+filter: drop-shadow(4px 4px 20px rgba(46, 56, 82, 0.66));
+transition:0.4s
+}
+
+.card1:hover{
+	width: 252px;
+height: 252px;
+  opacity: 0.9; 
+}
+
+.card2{	
+position: absolute;
+width: 250px;
+height: 250px;
+left: 540px;
+top: 1424px;
+z-index:4;
+filter: drop-shadow(4px 4px 20px rgba(46, 56, 82, 0.66));
+transition:0.4s
+}
+
+.card2:hover{
+	width: 252px;
+height: 252px;
+  opacity: 0.9; 
+}
+.card3{	
+position: absolute;
+width: 250px;
+height: 250px;
+left: 835px;
+top: 1424px;
+z-index:4;
+filter: drop-shadow(4px 4px 20px rgba(46, 56, 82, 0.66));
+transition:0.4s
+}
+
+.card3:hover{
+	width: 252px;
+height: 252px;
+  opacity: 0.9; 
+}
+
+.card4{	
+position: absolute;
+width: 250px;
+height: 250px;
+left: 1130px;
+top: 1424px;
+z-index:4;
+filter: drop-shadow(4px 4px 20px rgba(46, 56, 82, 0.66));
+transition:0.4s
+}
+
+.card4:hover{
+	width: 252px;
+height: 252px;
+  opacity: 0.9; 
+}
+
+.card5{	
+position: absolute;
+width: 250px;
+height: 250px;
+left: 1425px;
+top: 1424px;
+z-index:4;
+filter: drop-shadow(4px 4px 20px rgba(46, 56, 82, 0.66));
+transition:0.4s
+}
+
+.card5:hover{
+	width: 252px;
+height: 252px;
+  opacity: 0.9; 
+}
+
+.peoples_img{
+	position: absolute;
+width: 1383px;
+height: 359px;
+text-align:center;
+top: 1400px;
+}
+
+.footer{
+	background-color:rgba(123, 142, 178, 0.95);
+	position: absolute;
+height: 251px;
+width: 1920px;
+margin:0;
+bottom:0px;
+
+}
+.footer_wrapper{
+	height:251px;
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+}
+
+.elem{
+	display:block;
+}
+
+.network_icon{
+width:45px;
+height:46px;
+}
+
+
+.nav_title{
+	position: absolute;
+margin-left:312px;
+margin-right:0;
+top: 0%;
+bottom: 75.84%;
+
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: #072365;
+}
+
+.elem{
+text-decoration:none;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+color: rgba(151, 74, 50, 1);
+}
+
+
+
+.elem1{
+	position: absolute;
+left:303px;
+top:91px;
+bottom:0;
+transition:1s;
+}
+ 
+ .elem1:hover{
+
+	 transform: scale(0.97);
+	 color: rgba(119, 42, 18, 1);
+ }
+ 
+ 
+ 
+ 
+.elem2{
+position: absolute;
+top:134px;
+left:334px;	
+transition:1s;
+}
+  .elem2:hover{
+	
+	 transform: scale(0.95);
+	 color: rgba(119, 42, 18, 1);
+ }
+
+
+.elem3{
+position: absolute;
+top:181px;
+left:360px;
+transition:1s;
+}
+
+ .elem3:hover{
+	
+	 transform: scale(0.93);
+	 color: rgba(119, 42, 18, 1);
+ }
+
+
+
+
+
+.contact_title{
+position: absolute;
+left:784px;
+top: 0%;
+bottom: 76.11%;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+margin-left:80px;
+
+color: #072365;
+
+}
+.elems{
+	display:block;
+	text-decoration:none;
+
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+color: #31486B;
+}
+
+.elems1{
+position: absolute;
+left:859px;
+top:91px;
+transition:0.4s;
+}
+
+ .elems1:hover{
+	 transform: scale(1.001);
+	 color:rgba(11, 30, 57, 1);
+ }
+
+.elems2{
+	position: absolute;
+top:134px;
+left:850px;
+transition:0.4s;
+}
+
+ .elems2:hover{
+	 transform: scale(1.001);
+	 	 color:rgba(11, 30, 57, 1);
+ }
+
+.elems3{
+	position: absolute;
+top:160px;
+left:850px;
+transition:0.4s;
+}
+
+ .elems3:hover{
+	 transform: scale(1.001);
+	 	 color:rgba(11, 30, 57, 1);
+ }
+
+
+
+
+
+.contact_icon1{
+	position: absolute;
+left: 817px;
+top: 93px;
+
+}
+
+.contact_icon2{
+	position: absolute;
+left: 817px;
+top: 133px;
+
+}
+
+.contact_icon3{
+position: absolute;
+left: 817px;
+top: 178px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.networks_title{
+position: absolute;
+left: 72%;
+right: 8.34%;
+top: 0%;
+bottom: 75%;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: #072365;
+
+}
+
+.network_icon1{
+position:absolute;
+right:502px;
+width:45px;
+height:46px;
+top:110px;
+}
+
+.network_icon2{
+	position:absolute;
+	right:365px;
+	width:50px;
+height:51px;
+top:108px;
+}
+
+.network_icon3{
+	position:absolute;
+	right:299px;
+	width:55px;
+height:55px;
+top:106px;
+}
+.network_icon4{
+	position:absolute;
+	right:434px;
+	width:50px;
+height:53px;
+top:106px;
+}
+
+
+.copyright_icon{
+	position:absolute;
+	right:566px;
+	top:196px;
+}
+
+.copyright_text{
+	position:absolute;
+	right:299px;
+	top:180px;
+	font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 31px;
+color: #53688B;
+}
+
+.copyright_text{
+	transition:0.3s;
+}
+
+.copyright_text:hover{
+	color:rgba(7, 11, 104, 1);
+	 transform: scale(0.980);
+}
+
+
